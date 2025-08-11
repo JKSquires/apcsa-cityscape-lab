@@ -1,6 +1,8 @@
 # apcsa-cityscape-lab
 A lab in my AP Computer Science class where we had to design, build, and animate a city using different classes.
 
+**Note: if you are a student looking to swipe this code for yourself, don't :)** (although, feel free to take inspiration from it; we can all help each other learn and grow!)
+
 ![gif of the cityscape animation](image.gif)
 
 ---
